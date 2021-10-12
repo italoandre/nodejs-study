@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_study",
+  "version": "1.0.0",
+  "description": "Just some studies and feature testing",
+  "main": "bestme.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Italo André",
+  "license": "ISC"
+}
