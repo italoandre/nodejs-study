@@ -11,5 +11,8 @@ Here you'll find some files I created in order to learn NodeJS and study some of
 - clearTimeOut
 - setInterval
 - clearInterval
+- event.emit
+- event.on
+- event.once
 
 *Some features might appear only on history*
